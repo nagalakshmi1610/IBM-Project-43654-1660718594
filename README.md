@@ -11,7 +11,7 @@ News Tracker Application
 | Team Member 1  | Nishara N  |
 | Team Member 2  | Nagalakshimi N  |
 | Team Member 3 | Harikesh N |
-| Team Member 4 | Devi s |
+| Team Member 4 | Devi S |
 
 ### Required Skill:
 <img src =https://user-images.githubusercontent.com/113881296/196045303-6d6270b4-2e1c-4ed7-9169-c72c41faf385.png width="100" height="50"/>    <img src =https://user-images.githubusercontent.com/113881296/196045387-7a24163a-95b9-45d9-a31c-24e7e5ed7d81.png width="100" height="50"/>  <img src =https://user-images.githubusercontent.com/113881296/196045460-cf9e83c3-e7e2-407f-a6ac-f5dc02d850af.png width="50" height="50"/> <img src =https://user-images.githubusercontent.com/113881296/196045523-36eaa924-b0e4-403d-bb47-7d04805c7fe0.png width="50" height="50"/>  <img src =https://user-images.githubusercontent.com/113881296/196045564-49d9218e-5c5c-4619-b7ae-64163036937f.png width="50" height="50"/>  <img src =https://user-images.githubusercontent.com/113881296/196045595-4f5e5740-3ca2-4688-bd99-3b3bedd09209.png width="50" height="50"/>  <img src =https://user-images.githubusercontent.com/113881296/196045630-3941b161-ea2a-444e-94a9-f2cca0d6a3a8.png width="50" height="50"/>  <img src =https://user-images.githubusercontent.com/113881296/196045698-f093f1e8-d1bb-4f2e-9e6e-e722e3f9adbe.png width="100" height="50"/>
